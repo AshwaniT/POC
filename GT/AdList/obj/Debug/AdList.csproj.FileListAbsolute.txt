@@ -1,0 +1,5 @@
+C:\DS\GT\AdList\bin\Debug\AdList.dll
+C:\DS\GT\AdList\bin\Debug\AdList.pdb
+C:\DS\GT\AdList\obj\Debug\AdList.csprojResolveAssemblyReference.cache
+C:\DS\GT\AdList\obj\Debug\AdList.dll
+C:\DS\GT\AdList\obj\Debug\AdList.pdb

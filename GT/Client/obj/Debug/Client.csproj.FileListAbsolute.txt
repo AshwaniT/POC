@@ -1,0 +1,8 @@
+C:\DS\GT\Client\bin\Debug\Client.exe.config
+C:\DS\GT\Client\bin\Debug\Client.exe
+C:\DS\GT\Client\bin\Debug\Client.pdb
+C:\DS\GT\Client\bin\Debug\AdList.dll
+C:\DS\GT\Client\bin\Debug\AdList.pdb
+C:\DS\GT\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\DS\GT\Client\obj\Debug\Client.exe
+C:\DS\GT\Client\obj\Debug\Client.pdb

@@ -1,0 +1,8 @@
+C:\DS\BST_Begin\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\DS\BST_Begin\Test\bin\Debug\Test.exe.config
+C:\DS\BST_Begin\Test\bin\Debug\Test.exe
+C:\DS\BST_Begin\Test\bin\Debug\Test.pdb
+C:\DS\BST_Begin\Test\bin\Debug\Lib.dll
+C:\DS\BST_Begin\Test\bin\Debug\Lib.pdb
+C:\DS\BST_Begin\Test\obj\Debug\Test.exe
+C:\DS\BST_Begin\Test\obj\Debug\Test.pdb

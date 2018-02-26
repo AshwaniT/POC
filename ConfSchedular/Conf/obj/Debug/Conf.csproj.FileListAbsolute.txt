@@ -1,0 +1,5 @@
+C:\Self\ConfSchedular\Conf\bin\Debug\Conf.dll
+C:\Self\ConfSchedular\Conf\bin\Debug\Conf.pdb
+C:\Self\ConfSchedular\Conf\obj\Debug\Conf.dll
+C:\Self\ConfSchedular\Conf\obj\Debug\Conf.pdb
+C:\Self\ConfSchedular\Conf\obj\Debug\Conf.csprojResolveAssemblyReference.cache

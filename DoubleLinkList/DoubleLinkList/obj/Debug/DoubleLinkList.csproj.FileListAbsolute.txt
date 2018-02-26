@@ -1,0 +1,6 @@
+C:\Self\DoubleLinkList\DoubleLinkList\bin\Debug\DoubleLinkList.exe.config
+C:\Self\DoubleLinkList\DoubleLinkList\bin\Debug\DoubleLinkList.exe
+C:\Self\DoubleLinkList\DoubleLinkList\bin\Debug\DoubleLinkList.pdb
+C:\Self\DoubleLinkList\DoubleLinkList\obj\Debug\DoubleLinkList.csprojResolveAssemblyReference.cache
+C:\Self\DoubleLinkList\DoubleLinkList\obj\Debug\DoubleLinkList.exe
+C:\Self\DoubleLinkList\DoubleLinkList\obj\Debug\DoubleLinkList.pdb

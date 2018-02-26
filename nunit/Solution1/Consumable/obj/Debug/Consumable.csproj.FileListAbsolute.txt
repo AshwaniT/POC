@@ -1,0 +1,7 @@
+C:\selfl\nunit\Solution1\Consumable\bin\Debug\Consumable.dll
+C:\selfl\nunit\Solution1\Consumable\bin\Debug\Consumable.pdb
+C:\selfl\nunit\Solution1\Consumable\bin\Debug\Moq.dll
+C:\selfl\nunit\Solution1\Consumable\bin\Debug\Moq.pdb
+C:\selfl\nunit\Solution1\Consumable\bin\Debug\Moq.xml
+C:\selfl\nunit\Solution1\Consumable\obj\Debug\Consumable.dll
+C:\selfl\nunit\Solution1\Consumable\obj\Debug\Consumable.pdb

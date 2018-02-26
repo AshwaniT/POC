@@ -1,0 +1,9 @@
+C:\Self\ConfSchedular\ConfTest\bin\Debug\ConfTest.dll
+C:\Self\ConfSchedular\ConfTest\bin\Debug\ConfTest.pdb
+C:\Self\ConfSchedular\ConfTest\bin\Debug\Conf.dll
+C:\Self\ConfSchedular\ConfTest\bin\Debug\nunit.framework.dll
+C:\Self\ConfSchedular\ConfTest\bin\Debug\Conf.pdb
+C:\Self\ConfSchedular\ConfTest\bin\Debug\nunit.framework.xml
+C:\Self\ConfSchedular\ConfTest\obj\Debug\ConfTest.csprojResolveAssemblyReference.cache
+C:\Self\ConfSchedular\ConfTest\obj\Debug\ConfTest.dll
+C:\Self\ConfSchedular\ConfTest\obj\Debug\ConfTest.pdb

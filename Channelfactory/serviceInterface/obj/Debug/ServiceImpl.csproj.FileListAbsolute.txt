@@ -1,0 +1,7 @@
+C:\Self\Channelfactory\serviceInterface\bin\Debug\serviceInterface.dll
+C:\Self\Channelfactory\serviceInterface\bin\Debug\serviceInterface.pdb
+C:\Self\Channelfactory\serviceInterface\bin\Debug\Core.dll
+C:\Self\Channelfactory\serviceInterface\bin\Debug\Core.pdb
+C:\Self\Channelfactory\serviceInterface\obj\Debug\ServiceImpl.csprojResolveAssemblyReference.cache
+C:\Self\Channelfactory\serviceInterface\obj\Debug\serviceInterface.dll
+C:\Self\Channelfactory\serviceInterface\obj\Debug\serviceInterface.pdb

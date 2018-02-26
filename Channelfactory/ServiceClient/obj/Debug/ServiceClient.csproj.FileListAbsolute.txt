@@ -1,0 +1,7 @@
+C:\Self\Channelfactory\ServiceClient\bin\Debug\ServiceClient.dll
+C:\Self\Channelfactory\ServiceClient\bin\Debug\ServiceClient.pdb
+C:\Self\Channelfactory\ServiceClient\bin\Debug\Core.dll
+C:\Self\Channelfactory\ServiceClient\bin\Debug\Core.pdb
+C:\Self\Channelfactory\ServiceClient\obj\Debug\ServiceClient.csprojResolveAssemblyReference.cache
+C:\Self\Channelfactory\ServiceClient\obj\Debug\ServiceClient.dll
+C:\Self\Channelfactory\ServiceClient\obj\Debug\ServiceClient.pdb

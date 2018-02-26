@@ -1,0 +1,12 @@
+C:\selfl\nunit\Solution1\ConsumebaleTest\bin\Debug\ConsumebaleTest.dll
+C:\selfl\nunit\Solution1\ConsumebaleTest\bin\Debug\ConsumebaleTest.pdb
+C:\selfl\nunit\Solution1\ConsumebaleTest\bin\Debug\Consumable.dll
+C:\selfl\nunit\Solution1\ConsumebaleTest\bin\Debug\Moq.dll
+C:\selfl\nunit\Solution1\ConsumebaleTest\bin\Debug\nunit.framework.dll
+C:\selfl\nunit\Solution1\ConsumebaleTest\bin\Debug\Consumable.pdb
+C:\selfl\nunit\Solution1\ConsumebaleTest\bin\Debug\Moq.pdb
+C:\selfl\nunit\Solution1\ConsumebaleTest\bin\Debug\Moq.xml
+C:\selfl\nunit\Solution1\ConsumebaleTest\bin\Debug\nunit.framework.xml
+C:\selfl\nunit\Solution1\ConsumebaleTest\obj\Debug\ConsumebaleTest.csprojResolveAssemblyReference.cache
+C:\selfl\nunit\Solution1\ConsumebaleTest\obj\Debug\ConsumebaleTest.dll
+C:\selfl\nunit\Solution1\ConsumebaleTest\obj\Debug\ConsumebaleTest.pdb

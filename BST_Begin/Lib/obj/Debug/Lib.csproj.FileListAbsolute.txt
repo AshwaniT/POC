@@ -1,0 +1,5 @@
+C:\DS\BST_Begin\Lib\bin\Debug\Lib.dll
+C:\DS\BST_Begin\Lib\bin\Debug\Lib.pdb
+C:\DS\BST_Begin\Lib\obj\Debug\Lib.csprojResolveAssemblyReference.cache
+C:\DS\BST_Begin\Lib\obj\Debug\Lib.dll
+C:\DS\BST_Begin\Lib\obj\Debug\Lib.pdb

@@ -1,0 +1,9 @@
+C:\Self\Channelfactory\Webs\bin\Webs.dll
+C:\Self\Channelfactory\Webs\bin\Webs.pdb
+C:\Self\Channelfactory\Webs\bin\Core.dll
+C:\Self\Channelfactory\Webs\bin\serviceInterface.dll
+C:\Self\Channelfactory\Webs\bin\Core.pdb
+C:\Self\Channelfactory\Webs\bin\serviceInterface.pdb
+C:\Self\Channelfactory\Webs\obj\Debug\Webs.csprojResolveAssemblyReference.cache
+C:\Self\Channelfactory\Webs\obj\Debug\Webs.dll
+C:\Self\Channelfactory\Webs\obj\Debug\Webs.pdb
